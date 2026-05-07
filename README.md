@@ -8,5 +8,5 @@ winnie@stud.event.com- student123(password) -Student Role
 pamela@stud.event.com- student123(password) -Student Role
 
 Instructions
-Open the sytem folder in an IDE (Visual Studio Code) with database file (event_db (1).sql)
+Open the project folder in an IDE (Visual Studio Code) with database file (event_db (1).sql)
 Using the php server extension start the project.
